@@ -36,26 +36,26 @@ DELETE  /users/:id	Menghapus data user
 
 - Rooms
 GET	    /rooms	    Mengambil data semua ruangan
-POST	/rooms	    Menambah data ruangan baru
+POST	  /rooms	    Menambah data ruangan baru
 PUT	    /rooms/:id	Mengubah data ruangan
 DELETE  /rooms/:id	Menghapus data ruangan
 
 - Room Types
 GET	    /room-types	    Mengambil data semua jenis ruangan
 GET     /room-types/:id Mengambil data jenis ruangan tertentu
-POST	/room-types	    Menambah data jenis ruangan
+POST	  /room-types	    Menambah data jenis ruangan
 PUT	    /room-types/:id	Mengubah data jenis ruangan
 DELETE	/room-types/:id	Menghapus data jenis ruangan
 
 - Bookings
 GET	    /bookings	    Mengambil data semua booking
-POST	/bookings	    Menambah data booking baru
+POST	  /bookings	    Menambah data booking baru
 PUT	    /bookings/:id	Mengubah data booking
 DELETE	/bookings/:id	Menghapus data booking
 
 - Schedules
 GET	    /schedules	    Mengambil data semua slot waktu
-POST	/schedules	    Menambah data slot baru
+POST	  /schedules	    Menambah data slot baru
 PUT	    /schedules/:id	Mengubah data slot waktu
 DELETE	/schedules/:id	Menghapus data slot waktu
 
