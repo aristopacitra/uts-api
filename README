@@ -26,6 +26,9 @@ node index.js
 - Schedules
 - Bookings
 
+# Collection API
+https://doc.echoapi.com/docs/detail/45045f5e8402000?target_id=1030615bb2e008&locale=en
+
 # Endpoints API
 - Users
 GET	    /users	    Mengambil data semua user
