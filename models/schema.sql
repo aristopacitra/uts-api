@@ -9,7 +9,8 @@ CREATE TABLE users (
 
 CREATE TABLE room_types (
   id INT AUTO_INCREMENT PRIMARY KEY,
-  name VARCHAR(50)
+  name VARCHAR(50),
+  password VARCHAR(255)
 );
 
 CREATE TABLE rooms (
